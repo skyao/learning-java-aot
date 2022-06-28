@@ -1,5 +1,5 @@
 ---
-title: "Java AOT学习笔记"
+title: "Java AOT 学习笔记"
 linkTitle: "学习笔记"
 weight: 1
 date: 2022-06-27
