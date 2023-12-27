@@ -6,3 +6,8 @@ node_modules/
 node_modules
 themes/
 init_docsy.sh
+<<<<<<< HEAD
+=======
+package-lock.json
+.hugo_build.lock
+>>>>>>> upstream/learning-clean-2024
