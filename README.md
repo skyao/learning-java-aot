@@ -8,7 +8,7 @@ Java AOT / Ahead Of Time 编译技术。
 
 这是个人学习 Java AOT 的笔记，请点击下面的链接阅读:
 
-- [在线阅读](https://skyao.io/learning-java-aot/)：hugo格式，界面清爽。托管于腾讯云香港节点，速度快，偶尔抽风
+- [在线阅读](https://skyao.net/learning-java-aot/)：hugo格式，界面清爽。托管于腾讯云广州节点，国内访问速度很快
 - [@github](https://github.com/skyao/learning-java-aot/)：源码托管于github，如有谬误或需讨论，请提issue，欢迎提交PR
 
 ### 版权申明
